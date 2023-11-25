@@ -57,7 +57,7 @@ class MFC(RecomendationModule):
         return result
 
 
-class BPM:
+class BPM(RecomendationModule):
     """
     Beats Per Minute (BPM) Recommendation Module.
     """
