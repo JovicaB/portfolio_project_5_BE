@@ -1,4 +1,4 @@
-# Music Recommendation System [Most Frequent Song] backend
+# Music Recommendation System [Most Frequent Song]
 
 ## Overview
 
@@ -7,7 +7,7 @@ This project demonstrates the functionality of a modular Music Recommendation Sy
 ## Functionality
 
 - The MFC module:
-  - Selects the most frequently chosen songs after the current song.
+  - Selects the most frequently chosen songs plazyed/activated after the current song.
   - Randomizes the selection based on a predefined scheme.
 
 - User Activity Simulation:
